@@ -32,7 +32,7 @@ checkForUbuntuVersion() {
         echo && echo "Installation cancelled" && echo;
         exit;
     fi
-read -e -p "VPS Server IP Address and Masternode Port like IP:7979 : " ip
+read -e -p "VPS Server IP Address and Masternode Port like IP:32390 : " ip
 echo && sleep 3
 }
 
